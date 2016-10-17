@@ -1,0 +1,11 @@
+name: SpecMode
+author: iSatisfied
+main: me.satisdev.spec.SpecMode
+version: 2.0.1
+description: A spectating plugin
+
+commands:
+  spectate:
+    usage: /<command> [player]
+    aliases: [spec, sp]
+    description: Toggles spectating mode
